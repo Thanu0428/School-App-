@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243639991559",
+    "project_id": "survey-firebase-9bba3",
+    "storage_bucket": "survey-firebase-9bba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243639991559:android:567b2e94f240e3f2fe59a2",
+        "android_client_info": {
+          "package_name": "ece.np.edu.venkatesh_thanushree_mapg_mini_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJkzJMD_7xafQE1ptvbttVCiw6oT_6Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
